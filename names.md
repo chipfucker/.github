@@ -4,7 +4,7 @@
 
 ## Ideas
 
-To contribute name ideas, please create a comment or pull request under #1.
+To contribute name ideas, please create a comment or pull request under [#1](https://github.com/chipfucker/.github/issues/1).
 
 ### Suggestive names
 
