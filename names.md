@@ -16,8 +16,10 @@ To contribute name ideas, please create a comment or pull request under [#1](htt
 
 ### Fixes to 'chiptumor'
 
+- chiptumor-suggestive
 - suggestivechiptumor
 - chiptumorporn
+- chipanon
 
 ### Miscellaneous
 
